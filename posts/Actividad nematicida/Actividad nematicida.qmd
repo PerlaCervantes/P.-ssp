@@ -38,56 +38,8 @@ Se han reportado investigaciones sobre *Pleurotus* con efecto en la inhibición 
 :::
 
 ::: {style="text-align:center"}
-![*Pleurotus pulmonarius; P. ostretaus; P. djamor*](pleu2.png)
-
-::: {style="text-align:center"}
-![*Pleurotus pulmonarius; P. ostretaus; P. djamor*](pleu2.png)
+![*Pleurotus pulmonarius; P. ostretaus; P. djamor*. Fuente: iNaturalist, https://www.inaturalist.org/guide_taxa/498929; https://www.istockphoto.com/es/foto/seta-pleuroto-en-forma-de-ostra-gm503491608-82168369; https://www.reddit.com/r/mycology/comments/10h3x5k/pleurotus_djamor_oc/?rdt=52319](pleu2.png)
 :::
-
-::: {style="text-align:justify"}
-Con base en eso, Se establecerá un experimento en laboratorio para evaluar la efectividad en la inhibición de la eclosión, capacidad ovicida y larvicida y uno _in planta_ para la efectividad biológica en la reproducción de _Meloidogyne paranaensis_ en plantas de tomate, así como la determinación de los perfiles metabólicos mediante RMN. 
-:::
-
-# Objetivo
-
-Identificar y evaluar el efecto los metabolitos secundarios en la actividad nematicida de los extractos del filtrado del caldo de fermentación y biomasa micelial de *Pleurotus* spp. a nivel *in vitro* e *in vivo* mediante metabolómica.
-
-# Metodología
-
-::: {style="text-align:justify"}
-El experimento se desarrollará en el Instituto de Ecología (INECOL), en el Laboratorio de Parasitología y Control Biológico y área de invernaderos de la Facultad de Ciencias Agrícolas de la Universidad Veracruzana, campus Xalapa y en el Instituto de Química Aplicada. Se emplearán las especies *P. ostreatus*, *P. pulmonarius* y *P. djamor* var. *salmoneostramineus* de la Unidad de Biotecnología de Hongos Comestibles y Medicinales del Instituto de Ecología (INECOL).
-:::
-
-::: panel-tabset
-## Obtención de extractos
-
-Extractos del caldo de fermentación y biomasa liofilizada de cada una de las cepas con base en resultados de estandarización de condiciones de crecimiento (tiempo de fermentación, cantidad de inóculo y medio a utilizar).
-
-## Perfiles químicos
-
-Por medio de Resonancia Magnética Nuclear (RMN).
-
-(Tejeda, 2021)
-
-## Evaluación nematicida
-
-*In vitro*
-
-
-@sikandar2020 @gómez-rodríguez2022 @pineda-alegría2024
-
-*In vivo*
-
-
-@lópez-lima2023
-
-(Coyne y Ross, 2014; López-Lima et al., 2023)
-
-## Estudio metabolómico
-
-Correlación de la efectividad biológica y perfiles químicos para la determinación del compuesto. 
-:::
-
 
 
 ::: {style="text-align:justify"}
