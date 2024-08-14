@@ -1,5 +1,5 @@
 ---
-title: "_Pleurotus_ ssp."
+title: "_Pleurotus_"
 listing:
   contents: posts
   sort: "date desc"
