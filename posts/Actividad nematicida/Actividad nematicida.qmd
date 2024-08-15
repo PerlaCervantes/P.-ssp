@@ -9,7 +9,7 @@ csl: Apa
 ---
 
 ::: {style="text-align:justify"} 
-Los nematodos fitoparásitos son organismos multicelulares pertenecientes al *Phylum* Nematoda, su tamaño varía entre 200 y 6000 µm, cuentan con sistema digestivo, excretor, nervioso, muscular y reproductor, carecen de sistema circulatorio y respiratorio (@perry2011). Su importancia en la agricultura radica en las pérdidas económicas que genera, en particular, el género *Meloidogyne* (@fig-nema) es considerado el más agresivo y dañino en muchos cultivos agrícolas, son endoparásitos sedentarios que se alimentan y completan su ciclo dentro de la raíz (Alcasio, 2014)(. El método de control más utilizado son los nematicidas químicos, sin embargo, ante el costo, la persistencia y fitotoxicidad surge la necesidad de desarrollar nuevas alternativas como los productos a base de microorganismos que poseen capacidad de suplir o al menos complementar una estrategia de control. Los hongos nematófagos son capaces de parasitar, inmovilizar y atrapar nematodos fitoparásitos, en particular el género *Pleurotus* ha manifestado tener potencial demostrando actividad contra juveniles y efecto en la eclosión de huevos en diferentes especies (@pineda-alegría2017
+Los nematodos fitoparásitos son organismos multicelulares pertenecientes al *Phylum* Nematoda, su tamaño varía entre 200 y 6000 µm, cuentan con sistema digestivo, excretor, nervioso, muscular y reproductor, carecen de sistema circulatorio y respiratorio (@perry2011. Su importancia en la agricultura radica en las pérdidas económicas que genera, en particular, el género *Meloidogyne* (@fig-nema) es considerado el más agresivo y dañino en muchos cultivos agrícolas, son endoparásitos sedentarios que se alimentan y completan su ciclo dentro de la raíz (Alcasio, 2014)(. El método de control más utilizado son los nematicidas químicos, sin embargo, ante el costo, la persistencia y fitotoxicidad surge la necesidad de desarrollar nuevas alternativas como los productos a base de microorganismos que poseen capacidad de suplir o al menos complementar una estrategia de control. Los hongos nematófagos son capaces de parasitar, inmovilizar y atrapar nematodos fitoparásitos, en particular el género *Pleurotus* ha manifestado tener potencial demostrando actividad contra juveniles y efecto en la eclosión de huevos en diferentes especies (@pineda-alegría2017
 
 ::: {style="text-align:center"}
 ![*Meloidogyne paranaensis*. Fuente: Varón de Agudelo, 2020](nema.png){#fig-nema}
@@ -18,7 +18,7 @@ Los nematodos fitoparásitos son organismos multicelulares pertenecientes al *Ph
 
 # Efecto nematicida
 
-El género *Pleurotus* está constituido por diversas especies comestibles que son cultivadas experimental y comercialmente en diferentes regiones del mundo, es considerado uno de los grupos de hongos más diversos entre las especies cultivadas actualmente (Salmones y Mata, 2017). Este género de basidiomicetos posee la capacidad de parasitar directamente a los nematodos y/o producir compuestos tóxicos en estructuras especializadas (toxocistos) @armas-tizapantzi2019. Se han reportado más de 200 moléculas con actividad nematicida y 23 especies de del género presentan alguna de ellas como se puede observar en la @tbl-compuestos (@li2014a.
+El género *Pleurotus* está constituido por diversas especies comestibles que son cultivadas experimental y comercialmente en diferentes regiones del mundo, es considerado uno de los grupos de hongos más diversos entre las especies cultivadas actualmente (Salmones y Mata, 2017). Este género de basidiomicetos posee la capacidad de parasitar directamente a los nematodos y/o producir compuestos tóxicos en estructuras especializadas (toxocistos) (@armas-tizapantzi2019. Se han reportado más de 200 moléculas con actividad nematicida y 23 especies de del género presentan alguna de ellas como se puede observar en la @tbl-compuestos (@li2014a.
 :::
 
 ::: {style="text-align:center"}
@@ -37,7 +37,7 @@ El género *Pleurotus* está constituido por diversas especies comestibles que s
 :::
 
 ::: {style="text-align:justify"}
-Se han reportado investigaciones sobre *Pleurotus* con efecto en la inhibición de la eclosión en *Haemonchus contortus (*(Cuevas, 2019;@pineda-alegría2017) y *M. javanica* (@sufiate2017) así como capacidad larvicida sobre *Globodera pallida* @arteaga2020, *M. javanica* @heydari2006, *Heterodera schachtii* @palizi2009 y *M. enterolobii* @gómez-rodríguez2022
+Se han reportado investigaciones sobre *Pleurotus* con efecto en la inhibición de la eclosión en *Haemonchus contortus* (Cuevas, 2019;@pineda-alegría2017 y *M. javanica* (@sufiate2017 así como capacidad larvicida sobre *Globodera pallida* (@arteaga2020, *M. javanica* (@heydari2006, *Heterodera schachtii* (@palizi2009 y *M. enterolobii* (@gómez-rodríguez2022
 :::
 
 ::: {style="text-align:center"}

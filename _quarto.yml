@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "P. ssp"
+  title: "_Pleurotus_. ssp"
   navbar:
     right:
       - about.qmd

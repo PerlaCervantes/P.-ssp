@@ -1,8 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Identidificación de compuestos"
+author: "Perla C"
 date: "2024-08-10"
-categories: [news]
+categories: [Identidificación de compuestos]
 ---
 
 This is the first post in a Quarto blog. Welcome!
